@@ -1,2 +1,6 @@
 # Case Study
 # Washing Machine
+![block_dgm](https://user-images.githubusercontent.com/98841253/154610400-734c6ce5-850e-4f0b-a284-39aff16a6ef2.jpg)
+In a washing machine, the MCU gets analog inputs (water level sensor, water hardness sensor,water hardness sensor, humidity sensor, door open sensor, laundry load sensor, optical sensor, detergent density sensor, load Imbalance sensor, and volume sensor) through an external ADC. Temperature sensing is done by an onboard RTD and an external EEPROM is used to store data, such as customized wash program, memory backup, child lock, and favorites.  The microcontroller allows the washing machine to adjust the water and cut power automatically.
+
+The MCU also controls self-diagnostics, including water supply failure, spin failure, drainage failure, child lock, overflow protection, and door lid open. Clocks and timers are used to implement sleep mode and add delays (delay start condition) in operations. A buzzer (PWM-based) generates tones at different frequencies and also provides alert tones during overload conditions. The MCU also automatically turns off the machine after washing is completed, thus saving power.
