@@ -20,7 +20,10 @@ The Smart Helmet application is implementing to detect whether the rider is drun
  |HLR2|If helmet is not worned in that case also ignition should turned off|
  |HLR3|If any crashes happens it should send SMS to registered mobile|
  |HLR4|It should  indicate all the status of application on LCD and alarm|
+ 
+ Block Diagram
  ![smarthelmet_blockDgm](https://user-images.githubusercontent.com/98841253/154783698-a52a98ee-1a16-42c8-af46-edc88868af00.JPG)
+ 
 # Washing Machine
 
 In a washing machine, the MCU gets analog inputs (water level sensor, water hardness sensor,water hardness sensor, humidity sensor, door open sensor, laundry load sensor, optical sensor, detergent density sensor, load Imbalance sensor, and volume sensor) through an external ADC. Temperature sensing is done by an onboard RTD and an external EEPROM is used to store data, such as customized wash program, memory backup, child lock, and favorites.  The microcontroller allows the washing machine to adjust the water and cut power automatically.
