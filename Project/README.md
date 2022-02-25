@@ -54,41 +54,44 @@ The Smart Helmet application is implementing to detect whether the rider is drun
  
  ![smarthelmet_blockDgm](https://user-images.githubusercontent.com/98841253/154783698-a52a98ee-1a16-42c8-af46-edc88868af00.JPG)
  # Behavioral Diagram
+ ![behave_smart helmet](https://user-images.githubusercontent.com/98841253/155775666-4061d581-0556-47e0-aaec-68b28bcb6749.JPG)
+
  
  # System Design
  ## Components Required
- * ATMEGA328P Micro controller:
+ ##ATMEGA328P Micro controller:
  In this project, microcontroller ATMEGA 328p is used.It can be known as brain of this 
 circuit.. One can store commands and values which occur during the mechanism of circuit. 
 All the signals are processed in microcontroller and send it to various other devices.
  
- * Alcohol Sensor(Mq-3)
+ ## Alcohol Sensor(Mq-3)
  This sensor is used to detect alcohol content in biker’s breath. It runs on voltage supply of 2-
 3.3V. If the sensitivity of MQ-3 is more than 0.04mg/L in breathe then the driver can't drive 
 the bike
- * Vibration Sensor
+ ## Vibration Sensor
  Vibration sensors are sensors for measuring, display, and analyzing linear velocity, 
 displacement and proximity or acceleration.
- * Helmet switch
+ ## Helmet switch
  The switch is used to check the helmet is worn or not
- * Motor
+ ##Motor
  In this project the motor is used as bike ,if all the conditions satisfied the motor will on otherwise off.
- * Motor driver
+ ## Motor driver
  A driver is used to connect micro controller and motor
- * Relay
+ ## Relay
  Relay is used in between the GSM/GPS and controller
- * The Global Positioning System (GPS) is a satellite-based navigation system which is used to 
+ ## GPS
+ The Global Positioning System (GPS) is a satellite-based navigation system which is used to 
 detect the location where the accident will be taken place. It detects the Longitude and 
 Latitude values of particular place and sends it to GSM module.
 
- * GSM
+ ## GSM
  GSM abbreviates as Global System for Mobile communication. It is used to establish 
 connection between a computer and GSM system. It includes standard interfaces like RS232, 
 USB, etc.. It is used to send messages through the SIM.
- * Alarm
+ #3 Alarm
  The alarm will ON if the helmet is not worn,alcohol detected and any accident happens
- * LCD
+ ## LCD
  The status of the system is displayed on LCD
- * Power Supply
+ ## Power Supply
  This is required for controller.
 
