@@ -19,6 +19,11 @@ The Smart Helmet application is implementing to detect whether the rider is drun
  |HLR2|If helmet is not worned in that case also ignition should turned off|
  |HLR3|If any crashes happens it should send SMS to registered mobile|
  |HLR4|It should  indicate all the status of application on LCD and alarm|
+ 
+ ## SWOT Analysis
+ # Strengths
+*Light Weight
+*Cost Effective
  ## architecture
 
  
