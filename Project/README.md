@@ -95,4 +95,8 @@ USB, etc.. It is used to send messages through the SIM.
  The status of the system is displayed on LCD
  ## Power Supply
  This is required for controller.
+ ## Code Analysis
+ |Codacy|Codiga Grade|codiga Marks|cpp-check|
+|:-----|:-----|:---------|:----------------|
+|      | ![Codiga Badge](https://api.codiga.io/project/31629/status/svg)|![Codiga Badge](https://api.codiga.io/project/31629/score/svg)|  |
 
