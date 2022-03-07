@@ -2,6 +2,8 @@
  # Structural Diagram
 
  
- ![smarthelmet_blockDgm](https://user-images.githubusercontent.com/98841253/154783698-a52a98ee-1a16-42c8-af46-edc88868af00.JPG)
+![smartHelmet_complete](https://user-images.githubusercontent.com/98841253/157017424-6cf775a8-6050-46dc-a7ff-f76620a853f1.JPG)
+
+
  # Behavioral Diagram
- ![behave_smart helmet](https://user-images.githubusercontent.com/98841253/155775666-4061d581-0556-47e0-aaec-68b28bcb6749.JPG)
+![Structurel_finaSmartHelmet](https://user-images.githubusercontent.com/98841253/157030024-c6af5f5d-f1cc-441b-9de6-fc333325cc9c.JPG)

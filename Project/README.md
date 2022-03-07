@@ -9,16 +9,17 @@ The Smart Helmet application is implementing to detect whether the rider is drun
 |HLR1|The Application should detect the alcohol|
 |HLR2|The Application should check whether the helmet is worn or not|
 |HLR3|If any above case failed the system should off the ignition system of bike|
-|HLR4|The application should detect if any crashes|
-|HLR5|The application should send SMS to the Vehicle Department/Police Station if drunken rider is detected|
+|HLR4|The Buzzer will ON if alcohol detected|
+|HLR5|The LED will ON and status is updated on LCD|
 
 ## Low Level Requirements
  |ID  |DESCRIPTION                                                        |
  |:---|:------------------------------------------------------------------|
- |HLR1|Alcohol sensor continuously monitoring,if any drunken rider is detected the ignition should off and alarm will on|
- |HLR2|If helmet is not worned in that case also ignition should turned off|
- |HLR3|If any crashes happens it should send SMS to registered mobile|
- |HLR4|It should  indicate all the status of application on LCD and alarm|
+ |LLR1|System will check for helmet switch|
+ |LLR2|If helmet is not worn display message on LCD "No Helmet"|
+ |LLR3|The Ignition system will ON |
+ |LLR4|If alcohol detected Buzzer and LED will ON|
+ |LLR5|It should  indicate all the status of application on LCD |
  
  # SWOT Analysis
  ## Strengths
