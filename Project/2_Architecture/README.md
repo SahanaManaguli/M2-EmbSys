@@ -6,4 +6,4 @@
 
 
  # Behavioral Diagram
- ![behave_smart helmet](https://user-images.githubusercontent.com/98841253/155775666-4061d581-0556-47e0-aaec-68b28bcb6749.JPG)
+![Structurel_finaSmartHelmet](https://user-images.githubusercontent.com/98841253/157030024-c6af5f5d-f1cc-441b-9de6-fc333325cc9c.JPG)
