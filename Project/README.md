@@ -20,6 +20,9 @@ The Smart Helmet application is implementing to detect whether the rider is drun
 |5_Report        |Documentation of all folders and videos of mini project|
 |6_ImagesandVideos|Documentation of screenshots of result and videos|
 |7_Others         |Documentation of references and data sheets|
+## Working Video
+https://user-images.githubusercontent.com/98841253/157288166-ec8fbbb1-d3c9-4421-bd11-f85810408940.mp4
+
 
 ## References
 [Reference_1](https://www.youtube.com/watch?v=3CmdD5RKECM)
