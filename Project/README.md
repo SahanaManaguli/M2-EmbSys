@@ -1,7 +1,7 @@
 # Smart Helmet
 ## Abstract
 Now a days bike accidents are happening more due to drunken driving in that case if the rider not worn the helmet that leads to death.considering all this issues
-The Smart Helmet application is implementing to detect whether the rider is drunken or not and it ensures the helmet is worn or not.If these conditions falls the bike ignition system should turn off and it will detect if any crashes happens.The GSM sends SMS to registered vehicle department/Police station for further actions.
+The Smart Helmet application is implementing to detect whether the rider is drunken or not and it ensures the helmet is worn or not.If these conditions falls the bike ignition system will turn off and the buzzer will starts to buzz and LED will ON .If the helmet is not worn the LCD displays the message "NO Helmet" and if alcohol detected it displays the message.In this way we can reduce the accidents as well as death rate.
 
  
  # System Design
@@ -32,7 +32,7 @@ LED is used for indication of alcohol detection if the rider is drunken the LED 
  ## Power Supply
  This is required for controller.
  ## Code Analysis
- |Codacy|Codiga Grade|codiga Marks|cpp-check|
-|:-----|:-----|:---------|:----------------|
+ |Codacy|Codiga Grade|codiga Marks|
+|:-----|:-----|:---------|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ef1109668c6c4f9d8f97c934d205cee9)](https://www.codacy.com/gh/SahanaManaguli/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SahanaManaguli/M2-EmbSys&amp;utm_campaign=Badge_Grade)      | ![Codiga Badge](https://api.codiga.io/project/31629/status/svg)|![Codiga Badge](https://api.codiga.io/project/31629/score/svg)|  |
 
