@@ -95,4 +95,8 @@ USB, etc.. It is used to send messages through the SIM.
  The status of the system is displayed on LCD
  ## Power Supply
  This is required for controller.
+ ## Code Analysis
+ |Codacy|Codiga Grade|codiga Marks|cpp-check|
+|:-----|:-----|:---------|:----------------|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ef1109668c6c4f9d8f97c934d205cee9)](https://www.codacy.com/gh/SahanaManaguli/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SahanaManaguli/M2-EmbSys&amp;utm_campaign=Badge_Grade)      | ![Codiga Badge](https://api.codiga.io/project/31629/status/svg)|![Codiga Badge](https://api.codiga.io/project/31629/score/svg)|  |
 
